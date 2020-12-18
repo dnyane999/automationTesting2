@@ -19,7 +19,8 @@ public class GithubDemo
    public m3()
   {
   System.out.println("m3---method");	
-  }
+System.out.println("m3---Amit");	
+   }
 
 public static void main(String[] args)
 {
