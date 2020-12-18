@@ -13,6 +13,12 @@ public class GithubDemo
   System.out.println("m2---method");	
 
   }
+    public m3()
+  {
+  System.out.println("m3---method");	
+
+  }
+
 public static void main(String[] args)
 {
 System.out.println("main----method");	
