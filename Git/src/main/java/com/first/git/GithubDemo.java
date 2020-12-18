@@ -14,9 +14,9 @@ public class GithubDemo
 
   }
   
-  public m3()
+  public m4()
   {
-  System.out.println("m2---method");	
+  System.out.println("m4---method");	
 
   }
   
